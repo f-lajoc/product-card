@@ -29,9 +29,11 @@ Users should be able to:
 
 ### Screenshot
 
-![design desktop view](screenshot/screenshot_desktop.jpg width="200px")
+<img src="screenshot/screenshot_desktop.jpg" width="300px">
 
-![design mobile view](screenshot/mobile.jpg width="200px")
+<img src="screenshot/screenshot_mobile.jpg" width="200px">
+
+
 
 ### Links
 
@@ -80,5 +82,5 @@ Start using 'picture element'(srcset) for Responsiveness in my coming projects
 
 ## Acknowledgments
 
-[https://chat.whatsapp.com/HuXBHuj3RMz2XKyRP0vakV] - We code for the project
-[https://github.com/theCephas]- D'Cephas helped me with responsiveness
+- [https://chat.whatsapp.com/HuXBHuj3RMz2XKyRP0vakV] - We code for the project
+- [https://github.com/theCephas]- D'Cephas helped me with responsiveness
