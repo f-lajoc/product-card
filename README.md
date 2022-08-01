@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="screenshot/screenshot_desktop.jpg" width="300px">
+<img src="screenshot/screenshot_desktop.png" width="300px">
 
-<img src="screenshot/screenshot_mobile.jpg" width="200px">
+<img src="screenshot/screenshot_mobile1.png" width="200px">
 
 
 
