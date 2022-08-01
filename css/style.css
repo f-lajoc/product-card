@@ -39,7 +39,7 @@ main {
 }
 
 .img {
-  content: url("images/image-product-mobile.jpg");
+  content: url("../images/image-product-mobile.jpg");
   width: 20em;/* 100%🥴 */
   border-top-right-radius: 10px;
   border-top-left-radius: 10px;
@@ -126,7 +126,7 @@ footer a {
 /* for screen higher than 600px */
 @media only screen and (min-width: 600px) {
   .img {
-    content: url("images/image-product-desktop.jpg");
+    content: url("../images/image-product-desktop.jpg");
     width: 18em; /* 50%🥴 */
     height: 25em; /* not included🥴 */
     border-top-right-radius: 0px;
