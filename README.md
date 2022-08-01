@@ -29,8 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-![design desktop view](screenshot/screenshot_desktop.jpg)
-![design mobile view](screenshot/mobile.jpg)
+![design desktop view](screenshot/screenshot_desktop.jpg width="200px")
+
+![design mobile view](screenshot/mobile.jpg width="200px")
 
 ### Links
 
