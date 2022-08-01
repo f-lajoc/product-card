@@ -1,6 +1,5 @@
 # product-card
-We Code |Frontend Mentor - Product preview card component solution
-#We Code |Frontend Mentor - Product preview card component solution
+We Code |Frontend Mentor - Product preview card component solution 
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 
@@ -33,8 +32,6 @@ Users should be able to:
 
 <img src="screenshot/screenshot_mobile1.png" width="200px">
 
-
-
 ### Links
 
 - Solution URL: [https://github.com/f-lajoc/product-card] 
@@ -49,9 +46,6 @@ Users should be able to:
 - Flexbox
 - Media Query
 - Mobile-first workflow
-
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -83,4 +77,4 @@ Start using 'picture element'(srcset) for Responsiveness in my coming projects
 ## Acknowledgments
 
 - [https://chat.whatsapp.com/HuXBHuj3RMz2XKyRP0vakV] - We code for the project
-- [https://github.com/theCephas]- D'Cephas helped me with responsiveness
+- [https://github.com/theCephas]- D'Cephas helped me with responsiveness issues
