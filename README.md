@@ -29,11 +29,12 @@ Users should be able to:
 
 ### Screenshot
 
-![design desktop view](screenshot/desktop-active-view.png)
+![design desktop view](screenshot/screenshot_desktop.png)
+![design mobile view](screenshot/mobile.png)
 
 ### Links
 
-- Solution URL: []
+- Solution URL: [https://github.com/f-lajoc/product-card ] 
 - Live Site URL: []
 
 ## My process
@@ -78,5 +79,5 @@ Start using 'picture element'(srcset) for Responsiveness in my coming projects
 
 ## Acknowledgments
 
-[https://chat.whatsapp.com/HuXBHuj3RMz2XKyRP0vakV]- We code for the project
+[https://chat.whatsapp.com/HuXBHuj3RMz2XKyRP0vakV] - We code for the project
 [https://github.com/theCephas]- D'Cephas helped me with responsiveness
