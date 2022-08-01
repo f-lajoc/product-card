@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/f-lajoc/product-card ] 
-- Live Site URL: []
+- Solution URL: [https://github.com/f-lajoc/product-card] 
+- Live Site URL: [https://f-lajoc.github.io/product-card/]
 
 ## My process
 
